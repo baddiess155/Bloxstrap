@@ -1,3 +1,2 @@
-📋 **Tap and hold to copy:**
 loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/Mu3bJmmk3abFItQZ/raw'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/qwertyui-is-back/Bloxstrap/main/Initiate.lua'), 'lol')()
