@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-OP-bloxstrap-mobile-71317"))()
-loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/TuSRIyxMQuKHybSd/raw'))()
+
